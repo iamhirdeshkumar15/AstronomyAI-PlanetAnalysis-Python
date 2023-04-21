@@ -57,3 +57,5 @@ def search(search_box=None):
     else:
         output.delete('1.0', tk.END)
         output.insert(tk.END, "No planet found with that name.")
+        
+ # End 
