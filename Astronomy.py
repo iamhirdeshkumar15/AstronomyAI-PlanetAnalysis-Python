@@ -81,3 +81,5 @@ root.mainloop()
 
 # Close the database connection when the GUI is closed
 conn.close()
+
+# End
